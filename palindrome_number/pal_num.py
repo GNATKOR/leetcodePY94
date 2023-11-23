@@ -1,4 +1,4 @@
-some_num = 1551
+some_num = 1771
 
 
 def is_palindrome(num):
